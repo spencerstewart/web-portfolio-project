@@ -1,10 +1,14 @@
+/*
+ * Default CSS
+ */
+
 body {
   font-family: lato, sans-serif;
   font-weight: 300;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 750px;
   min-width: 360px;
 }
 
@@ -37,20 +41,8 @@ header h3 {
 }
 
 /*
- * HERO
- */
-
-.hero {
-
-}
-
-
-/*
  * FEATURED WORK
  */
-
-.feat-item img {
-}
 
 .feat-item-name {
   font-size: 2em;

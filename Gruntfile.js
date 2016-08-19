@@ -11,12 +11,20 @@ module.exports = function(grunt) {
         options: {
           sizes: [
             {
-            width: 1474,
-            suffix: '_large_2x',
+            width: 1440,
+            suffix: '-large_2x',
             quality: 30
             },{
-            width: 737,
-            suffix: '_large',
+            width: 720,
+            suffix: '-large',
+            quality: 30
+            },{
+            name: '440',
+            width: 440,
+            height: 293,
+            suffix: '-medium',
+            aspectRatio: false,
+            gravity: 'North',
             quality: 30
           }]
         },
