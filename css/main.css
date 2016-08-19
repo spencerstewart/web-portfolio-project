@@ -1,0 +1,62 @@
+body {
+  font-family: lato, sans-serif;
+  font-weight: 300;
+}
+
+.container {
+  max-width: 800px;
+}
+
+.row {
+  padding: 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+/*
+ * HEADER
+ */
+
+header #logo {
+  height: 100px;
+  width: 100px;
+}
+
+header h1 {
+  font-size: 3em;
+  font-weight: 100;
+  margin: .5em 0 0;
+}
+
+header h3 {
+  font-size: 1em;
+  margin: 0;
+}
+
+/*
+ * HERO
+ */
+
+.hero {
+
+}
+
+
+/*
+ * FEATURED WORK
+ */
+
+.feat-item img {
+}
+
+.feat-item-name {
+  font-size: 2em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.feat-item-link {
+  font-size: .75em;
+}
