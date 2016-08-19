@@ -23,8 +23,6 @@
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-mkdir": "^1.0.0",
     "grunt-responsive-images": "^0.1.9",
     "load-grunt-tasks": "^3.5.2"
   }
